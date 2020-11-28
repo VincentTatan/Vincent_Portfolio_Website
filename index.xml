@@ -5,7 +5,73 @@
     <link>https://vincenttatan.github.io/Vincent_Portfolio_Website/</link>
     <description>Recent content in Data Science Portfolio on Vincent Tatan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://vincenttatan.github.io/Vincent_Portfolio_Website/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Nov 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://vincenttatan.github.io/Vincent_Portfolio_Website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quick and Dirty Data Preprocessing Toolbox</title>
+      <link>https://vincenttatan.github.io/Vincent_Portfolio_Website/post/data-preprocessing/</link>
+      <pubDate>Sat, 28 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vincenttatan.github.io/Vincent_Portfolio_Website/post/data-preprocessing/</guid>
+      <description>Introduction Data scientists spend most of their time preparing data.
+According to CrowdFlower 2016 survey, data scientists are known for spending huge time on data preparation.
+Data preprocessing has become the necessary skill that every data scientist and engineer needs to have.
+Why do we need Data Preprocessing? Data needs to be cleaned and chopped.
+You need to detect for outliers, replace missing values, transform normalized values, encode categorical values before deciding to deploy a machine learning solution.</description>
+    </item>
+    
+    <item>
+      <title>Quick and Dirty Data Preprocessing Toolbox</title>
+      <link>https://vincenttatan.github.io/Vincent_Portfolio_Website/presentations/data-preprocessing/</link>
+      <pubDate>Sat, 28 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vincenttatan.github.io/Vincent_Portfolio_Website/presentations/data-preprocessing/</guid>
+      <description>Introduction Data scientists spend most of their time preparing data.
+According to CrowdFlower 2016 survey, data scientists are known for spending huge time on data preparation.
+Data preprocessing has become the necessary skill that every data scientist and engineer needs to have.
+Why do we need Data Preprocessing? Data needs to be cleaned and chopped.
+You need to detect for outliers, replace missing values, transform normalized values, encode categorical values before deciding to deploy a machine learning solution.</description>
+    </item>
+    
+    <item>
+      <title>Understanding CNN (Convolutional Neural Network)</title>
+      <link>https://vincenttatan.github.io/Vincent_Portfolio_Website/post/cnn/</link>
+      <pubDate>Fri, 20 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vincenttatan.github.io/Vincent_Portfolio_Website/post/cnn/</guid>
+      <description>Introduction Imagine Google Photos: for all of the pictures you have, how do you label those by objects. Do you want to tag them one by one? Is it possible to do a search on your latest Chicken Maryland snapshots? Enter CNN!
+Understanding image classification Our brains are the master at determining objects quickly. When you enter a grocery store, you can separate bananas from other goods such as shoes. My 2 year old niece knew how to differentiate cats and dogs.</description>
+    </item>
+    
+    <item>
+      <title>Understanding CNN (Convolutional Neural Network)</title>
+      <link>https://vincenttatan.github.io/Vincent_Portfolio_Website/presentations/cnn/</link>
+      <pubDate>Fri, 20 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vincenttatan.github.io/Vincent_Portfolio_Website/presentations/cnn/</guid>
+      <description>Introduction Imagine Google Photos: for all of the pictures you have, how do you label those by objects. Do you want to tag them one by one? Is it possible to do a search on your latest Chicken Maryland snapshots? Enter CNN!
+Understanding image classification Our brains are the master at determining objects quickly. When you enter a grocery store, you can separate bananas from other goods such as shoes. My 2 year old niece knew how to differentiate cats and dogs.</description>
+    </item>
+    
+    <item>
+      <title>Don’t Sleep: Building your first Drowsiness Detection System</title>
+      <link>https://vincenttatan.github.io/Vincent_Portfolio_Website/post/chapter-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vincenttatan.github.io/Vincent_Portfolio_Website/post/chapter-1/</guid>
+      <description>Introduction It was a very important day, the test and project deadline were due next week but you hadn’t prepared much because of the new Halo release. Out of anxiety, you rushed to library and opened your laptop. However, as you lost your sleep leveling up your character, your mind quickly took you to dreamland. Coffee did no avail as you slept soundly in front of your laptop. Time was running short and You were desperate to stay awake.</description>
+    </item>
+    
+    <item>
+      <title>In 10 minutes: Web Scraping with Beautiful Soup and Selenium for Data Professionals</title>
+      <link>https://vincenttatan.github.io/Vincent_Portfolio_Website/post/chapter-2/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vincenttatan.github.io/Vincent_Portfolio_Website/post/chapter-2/</guid>
+      <description>Use the API of the website (Best way) The data on the websites are unstructured, Sadly, not all websites provide an API
+Steps  Find the URL that you want to scrape Check whether is it legal to scrap from that website Goto www.URL/robots.txt if you are using Scrapy you no need to worry because it automatically allow only Legal links. in Settings.py ROBOTSTXT_OBEY=False Inspecting the Website Find the data you want to extract Write the code Run the code and extract the data Store the data in the required format  Need of Web Scraping  Price Comparison: Services such as ParseHub use web scraping to collect data from online shopping websites and use it to compare the prices of products.</description>
+    </item>
+    
     <item>
       <title>Contact</title>
       <link>https://vincenttatan.github.io/Vincent_Portfolio_Website/contact/</link>
